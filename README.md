@@ -1,10 +1,12 @@
 
 
-Bitchat
-#Description
+# Bitchat
+
+
+## Description
 Le projet consiste en la création d'une application éducative et communautaire sur le Bitcoin spécialement adaptée au marché sénégalais. L'objectif principal est de démocratiser la compréhension et l'utilisation du Bitcoin au Sénégal, de fournir des informations éducatives et de construire une communauté passionnée autour de cette technologie.
 
-#Fonctionnalités Principales
+## Fonctionnalités Principales
 Suivi des Prix en Temps Réel : Affichez les prix du Bitcoin en temps réel et des graphiques interactifs pour suivre les tendances du marché.
 
 Chatbot d'Assistance : Intégration de l'API GPT-3 d'OpenAI pour répondre aux questions des utilisateurs sur le Bitcoin et fournir des informations éducatives.
